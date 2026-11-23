@@ -1,0 +1,4 @@
+# TIA Portal library files must stay byte-identical: no line-ending conversion
+* -text
+README.md text
+LICENSE text
